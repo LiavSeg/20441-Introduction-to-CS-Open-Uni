@@ -1,6 +1,5 @@
 /**
  * Write a description of class Point here.
- * ID 314095209
  * @author (Liav Segev)
  * @version (16/11/20)
  */
