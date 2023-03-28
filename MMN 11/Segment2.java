@@ -1,7 +1,6 @@
 
 /**
  * Segment2 represents a line (parallel to the x-axis) using a center point and length.
- * ID 314095209
  * @author (Liav Segev)
  * @version (27.11.2020)
  */
