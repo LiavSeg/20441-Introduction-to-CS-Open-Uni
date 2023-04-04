@@ -1,10 +1,4 @@
  
- /**
- * This class represents a long type number using a linked list 
- * ID 314095209 
- * @author (LiavSegev)
- * @version (29/1/2021)
- */
 public class BigNumber
 {
     private IntNode _head;//the first node of the list 
