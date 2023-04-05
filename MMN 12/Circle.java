@@ -1,9 +1,6 @@
 
 /**
  * This program calculates radius, area and peremiter of an incricle and excircle of a given rectangle
- * ID: 314095209
- * @author Liav Segev
- * @version (27.10.2020)
  */
 import java.util.Scanner;
 
