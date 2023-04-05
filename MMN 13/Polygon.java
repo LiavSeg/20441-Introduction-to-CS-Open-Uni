@@ -1,9 +1,6 @@
              
  /**
   * This class represents a polygon on quadrant I .the polygon is represented by an array of points .
-  * ID 314095209
-  * @author (Liav Segev)
-  * @version (7/12/2020)
   */
  public class Polygon
  {
