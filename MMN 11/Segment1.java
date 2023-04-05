@@ -1,7 +1,6 @@
 
 /**
  * segment1 represents a line (parallel to the x-axis) using two Points.
- * ID 314095209
  * @author (Liav Segev)
  * @version (20/11/20)
  */
