@@ -1,9 +1,6 @@
 
 /**
  * A conversion program of Kelvin,Celsius and Fahrenheit degree scales.
- * ID: 314095209
- * @author (Liav Segev)
- * @version (5/11/2020)
  */
 import java.util.Scanner;
 
